@@ -2,3 +2,5 @@ homepage: "https://www.sitewiz.ai"
 # documentation: "n/a"
 versions:
   # Latest version
+  - sha: e64bcd55561c590ead2e4c413481a2886a8afd87
+    changeNotes: Initial release.
